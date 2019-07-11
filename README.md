@@ -6,3 +6,4 @@ What to use this notebook for:
 - Train a binary classifier with a gradient descent scheme.
 - Compare and contrast the abilities of a neural network and logistic regression.
 
+The back-propagation algorithm coded here segues into the more general case for Deep Learning later.
